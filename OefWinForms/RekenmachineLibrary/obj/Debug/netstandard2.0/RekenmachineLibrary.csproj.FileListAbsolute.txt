@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\OefWinForms\RekenmachineLibrary\bin\Debug\netstandard2.0\RekenmachineLibrary.deps.json
+C:\Users\Student\source\repos\OefWinForms\RekenmachineLibrary\bin\Debug\netstandard2.0\RekenmachineLibrary.dll
+C:\Users\Student\source\repos\OefWinForms\RekenmachineLibrary\bin\Debug\netstandard2.0\RekenmachineLibrary.pdb
+C:\Users\Student\source\repos\OefWinForms\RekenmachineLibrary\obj\Debug\netstandard2.0\RekenmachineLibrary.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\OefWinForms\RekenmachineLibrary\obj\Debug\netstandard2.0\RekenmachineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\OefWinForms\RekenmachineLibrary\obj\Debug\netstandard2.0\RekenmachineLibrary.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\OefWinForms\RekenmachineLibrary\obj\Debug\netstandard2.0\RekenmachineLibrary.AssemblyInfo.cs
+C:\Users\Student\source\repos\OefWinForms\RekenmachineLibrary\obj\Debug\netstandard2.0\RekenmachineLibrary.dll
+C:\Users\Student\source\repos\OefWinForms\RekenmachineLibrary\obj\Debug\netstandard2.0\RekenmachineLibrary.pdb

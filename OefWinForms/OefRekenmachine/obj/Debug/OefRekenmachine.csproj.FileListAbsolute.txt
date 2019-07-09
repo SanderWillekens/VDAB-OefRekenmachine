@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\bin\Debug\OefRekenmachine.exe.config
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\bin\Debug\OefRekenmachine.exe
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\bin\Debug\OefRekenmachine.pdb
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\obj\Debug\OefRekenmachine.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\obj\Debug\OefRekenmachine.Properties.Resources.resources
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\obj\Debug\OefRekenmachine.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\obj\Debug\OefRekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\obj\Debug\OefRekenmachine.exe
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\obj\Debug\OefRekenmachine.pdb
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\bin\Debug\RekenmachineLibrary.dll
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\bin\Debug\RekenmachineLibrary.pdb
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\obj\Debug\OefRekenmachine.csproj.CopyComplete
+C:\Users\Student\source\repos\OefWinForms\OefRekenmachine\obj\Debug\OefRekenmachine.Rekenmachine.resources
