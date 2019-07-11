@@ -227,13 +227,15 @@ namespace OefRekenmachine
         private void BtnC_Click(object sender, EventArgs e)
         {
             txtInput.Clear();
+            txtOpgave.Clear();
+            Getal1Ingevuld = false;
+            Getal1 = default;
+            Getal2 = default;
         }
 
         private void BtnCE_Click(object sender, EventArgs e)
         {
             txtInput.Clear();
-            txtOpgave.Clear();
-            Getal1Ingevuld = false;
         }
 
         private void BtnBackSpace_Click(object sender, EventArgs e)
@@ -244,21 +246,25 @@ namespace OefRekenmachine
         private void BtnGedeeldDoorX_Click(object sender, EventArgs e)
         {
             txtInput.Text = (1/Convert.ToDouble(txtInput.Text)).ToString();
+            OpgaveGemaakt = true;
         }
 
         private void BtnMacht_Click(object sender, EventArgs e)
         {
             txtInput.Text = (Convert.ToDouble(txtInput.Text)* Convert.ToDouble(txtInput.Text)).ToString();
+            OpgaveGemaakt = true;
         }
 
         private void BtnVierkantsWortel_Click(object sender, EventArgs e)
         {
             txtInput.Text = Math.Sqrt(Convert.ToDouble(txtInput.Text)).ToString();
+            OpgaveGemaakt = true;
         }
 
         private void BtnPercent_Click(object sender, EventArgs e)
         {
             txtInput.Text = (Getal1 * (Convert.ToDouble(txtInput.Text)/100)).ToString();
+            OpgaveGemaakt = true;
         }
 
         private void BtnVeranderTeken_Click(object sender, EventArgs e)
@@ -285,5 +291,16 @@ namespace OefRekenmachine
             if (e.KeyCode == Keys.Enter) { btnEquals.PerformClick(); }
         }
 
+        private void TxtInput_TextChanged(object sender, EventArgs e)
+        {
+            if (txtInput.Text == "" || txtInput.Text == null)
+            {
+                txtInput.Text += 0;
+            }
+            else if (txtInput.Text.First().Equals('0')&& txtInput.Text.Length > 1&& !txtInput.Text.Contains(','))
+            {
+                txtInput.Text = txtInput.Text.Remove(0, 1);
+            }
+        }
     }
 }

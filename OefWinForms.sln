@@ -5,9 +5,7 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefRekenmachine", "OefRekenmachine\OefRekenmachine.csproj", "{E0A519B0-2377-4CFA-A32E-8CE28A4DAE5B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rekenmachine3.0", "..\Week4\Rekenmachine3.0\Rekenmachine3.0.csproj", "{3CB43B0B-27CC-48F3-9D31-6ECD80CC9460}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekenmachineLibrary", "RekenmachineLibrary\RekenmachineLibrary.csproj", "{C0D7F1C4-756D-4815-852F-0336DDB053C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RekenmachineLibrary", "RekenmachineLibrary\RekenmachineLibrary.csproj", "{C0D7F1C4-756D-4815-852F-0336DDB053C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{E0A519B0-2377-4CFA-A32E-8CE28A4DAE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0A519B0-2377-4CFA-A32E-8CE28A4DAE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0A519B0-2377-4CFA-A32E-8CE28A4DAE5B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3CB43B0B-27CC-48F3-9D31-6ECD80CC9460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3CB43B0B-27CC-48F3-9D31-6ECD80CC9460}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3CB43B0B-27CC-48F3-9D31-6ECD80CC9460}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3CB43B0B-27CC-48F3-9D31-6ECD80CC9460}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C0D7F1C4-756D-4815-852F-0336DDB053C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C0D7F1C4-756D-4815-852F-0336DDB053C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0D7F1C4-756D-4815-852F-0336DDB053C2}.Release|Any CPU.ActiveCfg = Release|Any CPU

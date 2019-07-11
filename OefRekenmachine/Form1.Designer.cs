@@ -356,7 +356,9 @@
             this.txtInput.Size = new System.Drawing.Size(290, 64);
             this.txtInput.TabIndex = 24;
             this.txtInput.TabStop = false;
+            this.txtInput.Text = "0";
             this.txtInput.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtInput.TextChanged += new System.EventHandler(this.TxtInput_TextChanged);
             // 
             // txtOpgave
             // 
